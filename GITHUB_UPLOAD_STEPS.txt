@@ -1,0 +1,7 @@
+1. Sign in to https://github.com/
+2. Select New repository.
+3. Repository name: student-grade-management-system
+4. Choose Public or Private, then create the repository.
+5. Upload student_grade_management.c and README.md. You may also upload the project report DOCX if your instructor wants it in the repository.
+6. Commit the files.
+7. Copy the repository URL and submit it where your instructor asks.
